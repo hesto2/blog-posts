@@ -1,0 +1,53 @@
+# Before we get into pricing...
+Before I say anything on the topic, if your client has not given you a specific scope of the project, tell them you will get them a quote when they can clearly outline what they want. You may have a potential client give you an elevator pitch on their project, and then follow it up with “How much do you think that will cost?”. Nothing is worse than giving a quote for a whole project with only a fraction of the full picture. Making this mistake will leave your client with unrealistic expectations, and left me trapped in a near-minimum-wage work situation. Get the project scope first!!
+
+## Pricing yourself
+I could write a book on this section. Pricing is less of a science and more of an art. As with any art, there are rules and practices you can incorporate into your work that will have different effects on various audiences. Ideally this section will help you make a handsome profit and leave your clients satisfied.
+
+## Don't limit yourself to a cookie-cutter pricing scheme
+I always have a hard time answering the question: “So Carter, what do you charge your clients?”, or “Do you charge hourly, or by the project?”. I usually give some sort of unhelpful answer that boils down to “It depends…”. One of the worst things you can do to your business, and your clients, is declare to the world that you follow pricing scheme X, Y, or Z exclusively. ***Keep your pricing scheme fluid and adapting it for each client will increase your chances of creating a “Win-Win” scenario.*** When deciding how I want to price a potential project, I ask myself the following questions:
+- **How much do I want the work**
+- **How big is their budget for the project**
+- **How important is this project to them**
+
+## Evaluating the opportunity
+1. **How much do I want the work**
+here are a few things to evaluate when asking yourself this question. Are finances tight for you right now? If so, then pricing it lower just so you can ensure you don’t miss the opportunity is probably a good starting point. On the other hand, do you have existing clients? Does the project not seem all that interesting, or perhaps the client appears difficult to work with? If this is the case, I always ask myself **“How much would they have to pay in order for me to say yes?”.** Granted, this stance is a lot easier to take when you are not actively relying on your freelance income for your livelihood. 
+
+ One time I had a client, who I hadn’t heard from in years, reach out and wanted me to update something with the server configuration for their website I made years ago. I couldn’t really remember all the details of the server, and I wasn’t sure what it would take to find all the credentials, etc. to be able to login. It sounded like a big pain and I didn’t really want to do it, but the Nintendo Switch had just come out and I decided I’d be willing to do this for him at the price of the newest game console. Obviously I didn’t tell him that I would do this work if he bought me a Switch, but I ended up earning $350 for only about 30 minutes worth of labor, not bad!
+
+2. **How big is their budget for the project**
+Many times, if I have a potential client that I don’t know very well, I will hop online and try to do some research about who they are and what they do for a living. My goal with this is to get a rough idea of what I’d be getting into. Different clients have different budgets, and if your goal is to get more work then you will want to be flexible with the scale of budgets you work with (this doesn't mean you should short change yourself!). One of my earlier clients told me that they went to an agency and were quoted $200,000 for their project. I told them I’d do the job for $50,000 in a couple of months. They were thrilled to get a great deal, and I was psyched to get an excellent paycheck for a couple months of work. Contrary to this situation, I did a job for a smaller business and only got a few hundred dollars for a couple weeks of work. While that wasn’t ideal, I didn’t have a lot going on at the time and that client has since brought in a couple of other clients that have been a lot more lucrative. 
+
+Another, simple, tactic to gauge a budget is to simply ask them what it is. If you and a client are trying to feel things out, a point in the conversation may come up where it be appropriate for you to ask them what their budget is for the project. There isn’t really a social penalty for asking this (assuming you show a little tactfulness with it) aside from having the possibility of them saying they can't tell you. The potential pay for a project varies in importance depending on how badly you want/need the job. The less you need it, the more picky you can be. The more they need it, the more aggressive you can be in your negotiations.
+
+3. **How important is this project to them**
+This one is pretty self-explanatory in its business application. If a project is more important to a client, they will usually be willing to pay more to get it done *correctly* and on time. If the job is more of a “nice-to-have” then you may have to be more conservative with whatever pricing approach you choose to take.
+
+## Pricing methods and when to use them
+A co-worker of mine told me about a short metaphor he heard once that I feel should guide your thinking when you are trying to price yourself:
+
+*A farmer had his tractor break on him and he couldn’t figure out how to get it up and running again. After struggling with it for a few days, he called in a mechanic to take a look at it. The mechanic showed up with his toolbox and took a few minutes to inspect the tractor. After inspecting it, he took a hammer and whacked it on the hood and proceeded to turn the tractor on. “That will be $50”, the mechanic said. The farmer was appalled, “You took less than ten minutes to look at it, and only hit it with your hammer! That was so easy that I could have done it myself!”. The mechanic replied “Fine, $1 for the amount of time it took and $49 for all the time and experiences that led up to me knowing exactly where and how to hit the tractor”.*
+
+Your craft is valuable, if it was easy to do then your potential clients wouldn’t pay thousands of dollars to have someone else do it for them. Remember to not limit yourself to any single one of these methods. Instead, use these as suggestions to figure out what works best for you and your potential client.
+- **Hourly (Least recommended)**
+Sometimes when I’m asked how much I charge per hour, I make up some high number just for the sake of satisfying their curiosity. In truth, I rarely charge by the hour*  for a couple reasons:
+    1. It punishes you for being better at your craft than someone who would take longer to do the work.
+    2. Most projects aren’t simple and warrant a more sophisticated pricing scheme.
+Sometimes hourly makes sense though. If you aren’t sure how long a project will take, and you aren’t confident in your ability to estimate it in a way that will be favorable for you, I recommend charging a handsome hourly rate that will keep you happy. If you choose to go this route, I recommend using [Toggl](https://toggl.com/) to track your hours. It makes it really easy to manage multiple clients and track their hours separately. There are even convenient apps/desktop widgets you can download that make it even more simple to manage your time.
+
+* "But Carter, I’ve heard that you track your hours for every project". This is true, take a look at the next section to find out why I do this.*
+
+- **The Hybrid Approach** (how I price my projects, usually)
+I’m never sitting at my desk with my IDE/terminal open to a freelance project without my toggl timer ticking. This lets me see exactly how long I’ve spent on a project before I write up the final invoice. While I almost never charge hourly, I do track my hours and use that as the bare minimum for what I should charge. Here’s an example: 
+Say I work on a project for 10 hours and I’m getting ready to send an invoice. If I charge them $500 for the work then that would mean I’m really charging them $20 an hour. In the web-development industry, that is cheap cheap cheap! With that information, I can re adjust how much I actually charge based on factors like:
+    - How quickly did I get their requests done?
+    - Were there any extraordinary requests? (Urgent surprise deadlines, middle of the night calls, sudden scope change)
+    - How specialized is what I made for them? (Did you make a real-time data system, implement a streaming service, or anything else that is especially complicated)
+
+All of these factors should influence how much you charge and, ideally, justify a larger invoice. If all else fails, my last method I do on occasion (and a little bit with every project) is to simply **make it up**. The worst thing that can happen if you price yourself too high is that a client will say no.
+
+# What to do if you bust (Based on a true story)
+You’ve done your research, you’ve thought through the questions, you think that you can get $14,000 for this job that will take a little more than a month. The client has a great job and seems like they are able to afford that, plus they want a lot of specialized work. You finally get back to them with a quote and tell them the news. They say they will think about it for a few days and get back to you. A few days go by and you get a phone call where the client says that they will have to find someone else that is more in their price-range. It is at this point you realize that you should’ve quoted them lower, and now they are going to go find someone else that is willing to do the work for less. STOP! Almost every time this has happened to me, it has worked out in my favor. This is your chance to “down-sell” your client. If they tell you that they can’t afford that, you can bounce back and provide them with more affordable options. If they want a site that has X, Y, and Z, that will cost them $14,000. Although, you’d be willing to make Just X for $3,000, or a feature of similar scope. This will give them the opportunity to try out their idea incrementally rather than going all-in on it with a big endeavor. If you frame it right, you can turn these situations into smaller, but highly profitable, jobs that don’t take too much time or effort.
+
+Next up: {% post https://dev.to/hesto22/freelancing-for-the-full-time-employee-part-5-legal-preparation-1e0h %}
